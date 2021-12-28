@@ -34,7 +34,8 @@
         "import/extensions": [
             "error",
             "never"
-        ]
+        ],
+        "linebreak-style": "off"
     },
     "settings": {
         "import/resolver": {
@@ -45,7 +46,8 @@
                     ".ts",
                     ".tsx"
                 ]
-            }
+            },
+            "typescript": {}
         }
     }
 }
